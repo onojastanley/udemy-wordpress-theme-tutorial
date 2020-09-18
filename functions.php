@@ -1,7 +1,7 @@
 <?php
 
 //Setup
-
+define( 'SU_DEV_MODE', true );
 
 
 //Includes
